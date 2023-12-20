@@ -1,4 +1,3 @@
 # map-app
 
-In-progress
-To be finished 19.12/20.12
+map-app simple app witch allows to write simple notes about cities based on where the user clicks on the map
