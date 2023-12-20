@@ -6,6 +6,7 @@ export default function Homepage() {
   return (
     <main className={styles.homepage}>
       <PageNav />
+
       <section>
         <h1>
           You travel the world.
@@ -13,10 +14,10 @@ export default function Homepage() {
           Map Project keeps track of your adventures.
         </h1>
         <h2>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-          odio fuga quam. Nobis deserunt voluptatibus, tempora molestiae,
-          provident reprehenderit quisquam facilis maxime exercitationem vel
-          fugit, velit laudantium iure numquam unde.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem iste
+          voluptate dicta porro excepturi reprehenderit quibusdam voluptatem
+          tenetur rem atque, aspernatur ut, cupiditate et neque quasi tempore
+          assumenda doloremque. Odit?
         </h2>
         <Link to="/login" className="cta">
           Start tracking now

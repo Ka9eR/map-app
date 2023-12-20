@@ -11,10 +11,6 @@ import City from "./components/City";
 import Form from "./components/Form";
 import SpinnerFullPage from "./components/SpinnerFullPage";
 
-// Flag fix
-import { polyfillCountryFlagEmojis } from "country-flag-emoji-polyfill";
-polyfillCountryFlagEmojis();
-
 const Homepage = lazy(() => import("./pages/Homepage"));
 const Product = lazy(() => import("./pages/Product"));
 const Pricing = lazy(() => import("./pages/Pricing"));
